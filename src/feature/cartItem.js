@@ -1,0 +1,43 @@
+export const cartItems = [{
+        id: "rec1JZlfCIBOPdcT2",
+        title: "POCO",
+        price: "39999",
+        img: "https://i.ebayimg.com/images/g/rxAAAOSwrCVkB1C2/s-l1600.jpg",
+        amount: 1,
+    },
+    {
+        id: "recB6qcHPxb62YJ75",
+        title: "Google Pixel",
+        price: "49999",
+        img: "https://images2.imgbox.com/fb/3d/O4TPmhlt_o.png",
+        amount: 1,
+    },
+    {
+        id: "recdRxBsE14Rr2VuJ",
+        title: "Xiaomi Redmi Note 2",
+        price: "69999",
+        img: "https://images2.imgbox.com/4f/3d/WN3GvciF_o.png",
+        amount: 1,
+    },
+    {
+        id: "recwTo160XST3PIoW",
+        title: "Samsung Galaxy S7",
+        price: "59999 ",
+        img: "https://tabloidpulsa.id/wp-content/uploads/2017/02/galaxy-s7-white.jpg",
+        amount: 1,
+    },
+    {
+        id: "recNewItemId1",
+        title: "iPhone 13",
+        price: "79999",
+        img: "https://trikart.com/media/cache/2500x0/catalog/product/i/p/iphone_13_pink_2_1663487546.webp",
+        amount: 1,
+    },
+    {
+        id: "recNewItemId2",
+        title: "OnePlus 9",
+        price: "89999",
+        img: "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9/Astralblack_9-min.png",
+        amount: 1,
+    },
+];
